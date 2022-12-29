@@ -1,0 +1,8 @@
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\bin\Debug\Arrays_Tutorial.exe.config
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\bin\Debug\Arrays_Tutorial.exe
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\bin\Debug\Arrays_Tutorial.pdb
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\obj\Debug\Arrays_Tutorial.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\obj\Debug\Arrays_Tutorial.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\obj\Debug\Arrays_Tutorial.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\obj\Debug\Arrays_Tutorial.exe
+D:\Adobe\Comp 1\VS Saves\Arrays_Tutorial\obj\Debug\Arrays_Tutorial.pdb
